@@ -1,0 +1,23 @@
+{
+"products":
+[{"id":1,"name":"Indian red admiral","category":"Violet"},
+{"id":2,"name":"African pied wagtail","category":"Purple"},
+{"id":3,"name":"Skua, great","category":"Yellow"},
+{"id":4,"name":"Waterbuck, defassa","category":"Red"},
+{"id":5,"name":"Bunting, crested","category":"Mauv"},
+{"id":6,"name":"Porcupine, african","category":"Crimson"},
+{"id":7,"name":"Spotted wood sandpiper","category":"Pink"},
+{"id":8,"name":"Wild turkey","category":"Yellow"},
+{"id":9,"name":"Gambel's quail","category":"Red"},
+{"id":10,"name":"Ovenbird","category":"Purple"},
+{"id":11,"name":"Goose, egyptian","category":"Turquoise"},
+{"id":12,"name":"Gecko, ring-tailed","category":"Goldenrod"},
+{"id":13,"name":"Bleeding heart monkey","category":"Khaki"},
+{"id":14,"name":"Hyena, striped","category":"Puce"},
+{"id":15,"name":"Antelope, roan","category":"Pink"},
+{"id":16,"name":"Hedgehog, south african","category":"Teal"},
+{"id":17,"name":"Common turkey","category":"Khaki"},
+{"id":18,"name":"Black-backed jackal","category":"Crimson"},
+{"id":19,"name":"Harbor seal","category":"Blue"},
+{"id":20,"name":"Grey lourie","category":"Pink"}]
+}
